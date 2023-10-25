@@ -1,5 +1,9 @@
-### Hi there 👋
-<h1>Hola soy Luis </h1>
+<h1> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hola soy Luis </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A9AFF&random=false&width=435&lines=Ingenier%C3%ADa+en+Inform%C3%A1tica;UPIICSA)](https://git.io/typing-svg)
+
+##  **About me**
+<picture><img src = "https://giphy.com/gifs/dancing-adventure-time-bmo-pO4UHglOY2vII" width = 50px></picture>
 <!--
 **LuisSerranoGtz/LuisSerranoGTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
